@@ -1,0 +1,11 @@
+2025-05-05 21:34:37 - org.example.WordReducerApplication - Starting WordReducerApplication using Java 21.0.7 with PID 2740 (C:\Users\dilqn\IdeaProjects\word-reducer-service\target\classes started by dilqn in C:\Users\dilqn\IdeaProjects\word-reducer-service)
+2025-05-05 21:34:37 - org.example.WordReducerApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-05 21:34:38 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-05-05 21:34:38 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-05 21:34:38 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-05 21:34:38 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2025-05-05 21:34:38 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-05 21:34:38 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1148 ms
+2025-05-05 21:34:38 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-05-05 21:34:38 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2025-05-05 21:34:38 - org.example.WordReducerApplication - Started WordReducerApplication in 2.25 seconds (process running for 2.879)
