@@ -32,6 +32,8 @@ public class WordReducerService {
             }
         }
 
+        //TEST
+
         log.info("Total reducible 9-letter words found: {}", reducibleWords.size());
         return reducibleWords;
     }
