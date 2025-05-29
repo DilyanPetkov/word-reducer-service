@@ -20,4 +20,9 @@ public class WordReducerRestController {
         List<String> reducibleWords = wordReducerService.findReducibleWords(wordListUrl);
         return ResponseEntity.ok(reducibleWords);
     }
+
+    @GetMapping("/test")
+    public String test(){
+        return "Test";
+    }
 }
