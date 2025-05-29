@@ -33,6 +33,7 @@ public class WordReducerService {
         }
 
         //TEST
+        //тест2
 
         log.info("Total reducible 9-letter words found: {}", reducibleWords.size());
         return reducibleWords;
